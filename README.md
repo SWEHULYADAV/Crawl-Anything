@@ -9,7 +9,7 @@
 [![Stars](https://img.shields.io/github/stars/SWEHULYADAV/advanced-website-crawler?style=social)](https://github.com/SWEHULYADAV/advanced-website-crawler/stargazers)
 [![Follow](https://img.shields.io/github/followers/SWEHULYADAV?style=social)](https://github.com/SWEHULYADAV)
 
-[Discord](https://discord.gg/your-server) | [Documentation](https://github.com/SWEHULYADAV/advanced-website-crawler/wiki) | [Report Bug](https://github.com/SWEHULYADAV/advanced-website-crawler/issues) | [Request Feature](https://github.com/SWEHULYADAV/advanced-website-crawler/issues)
+[Documentation](https://github.com/SWEHULYADAV/advanced-website-crawler/wiki) | [Report Bug](https://github.com/SWEHULYADAV/advanced-website-crawler/issues) | [Request Feature](https://github.com/SWEHULYADAV/advanced-website-crawler/issues)
 
 </div>
 
@@ -357,9 +357,7 @@ tasklist | findstr "python"
 ## 🔗 Contact
 
 - **Creator**: SWEHUL YADAV
-- **Email**: Yadav12ahul@gmail.com
-- **LinkedIn**: [SWEHUL YADAV]([https://linkedin.com/in/your-profile](https://in.linkedin.com/in/rahul-yadav-swehul))
-- **Twitter**: [@YourHandle](https://twitter.com/SWEHULYADAV)
+- **LinkedIn**: [SWEHUL YADAV](https://in.linkedin.com/in/rahul-yadav-swehul)
 
 ## �🙏 Acknowledgments
 
