@@ -357,9 +357,9 @@ tasklist | findstr "python"
 ## 🔗 Contact
 
 - **Creator**: SWEHUL YADAV
-- **Email**: your.email@example.com
-- **LinkedIn**: [SWEHUL YADAV](https://linkedin.com/in/your-profile)
-- **Twitter**: [@YourHandle](https://twitter.com/your-handle)
+- **Email**: Yadav12ahul@gmail.com
+- **LinkedIn**: [SWEHUL YADAV]([https://linkedin.com/in/your-profile](https://in.linkedin.com/in/rahul-yadav-swehul))
+- **Twitter**: [@YourHandle](https://twitter.com/SWEHULYADAV)
 
 ## �🙏 Acknowledgments
 
