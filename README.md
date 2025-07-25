@@ -123,22 +123,22 @@ The Advanced Website Crawler is a sophisticated Python-based web scraping tool d
 ### Core Dependencies
 
 - **Web Scraping & Browsing**
-  - `beautifulsoup4>=4.12.2` - HTML parsing
-  - `playwright>=1.36.0` - Browser automation
-  - `requests>=2.31.0` - HTTP requests
-  - `urllib3>=2.0.3` - HTTP client
-  - `lxml>=4.9.3` - XML/HTML processing
+  - `beautifulsoup4` - HTML parsing
+  - `playwright` - Browser automation
+  - `requests` - HTTP requests
+  - `urllib3` - HTTP client
+  - `lxml` - XML/HTML processing
 
 - **Performance Optimization**
-  - `aiohttp>=3.8.5` - Async HTTP
-  - `aiodns>=3.0.0` - DNS resolver
-  - `cchardet>=2.1.7` - Character encoding
-  - `brotli>=1.0.9` - Compression
+  - `aiohttp` - Async HTTP
+  - `aiodns` - DNS resolver
+  - `cchardet` - Character encoding
+  - `brotli` - Compression
 
 - **Data Processing**
-  - `html5lib>=1.1` - HTML parser
-  - `cssselect>=1.2.0` - CSS selectors
-  - `python-dateutil>=2.8.2` - Date handling
+  - `html5lib` - HTML parser
+  - `cssselect` - CSS selectors
+  - `python-dateutil` - Date handling
 
 ### Quick Start
 
