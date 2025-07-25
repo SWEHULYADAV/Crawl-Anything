@@ -1,0 +1,41 @@
+# Core Dependencies
+requests
+beautifulsoup4
+playwright
+urllib3
+lxml
+
+# Performance and Concurrency
+aiohttp
+aiodns
+cchardet
+futures
+greenlet
+
+# HTML and Data Processing
+html5lib
+cssselect
+python-dateutil
+
+# File and Character Encoding
+aiofiles
+chardet
+charset-normalizer
+
+# Network and Protocol Support
+certifi
+idna
+websockets
+
+# Optional: Performance Optimizations
+brotli         # Compression support
+pyee           # Event emitter
+
+# Development Tools (Optional)
+black          # Code formatting
+pylint         # Code linting
+pytest         # Testing
+pytest-asyncio  # Async testing support
+
+# Note: Some versions might need adjustment based on your Python version
+# Python >= 3.8 recommended
