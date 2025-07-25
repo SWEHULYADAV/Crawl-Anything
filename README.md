@@ -6,10 +6,10 @@
 [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4.9%2B-green.svg)](https://www.crummy.com/software/BeautifulSoup/)
 [![Playwright](https://img.shields.io/badge/Playwright-1.30%2B-orange.svg)](https://playwright.dev/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/SWEHULYADAV/advanced-website-crawler?style=social)](https://github.com/SWEHULYADAV/advanced-website-crawler/stargazers)
+[![Stars](https://img.shields.io/github/stars/SWEHULYADAV/Crawl-Anything?style=social)](https://github.com/SWEHULYADAV/Crawl-Anything/stargazers)
 [![Follow](https://img.shields.io/github/followers/SWEHULYADAV?style=social)](https://github.com/SWEHULYADAV)
 
-[Documentation](https://github.com/SWEHULYADAV/advanced-website-crawler/wiki) | [Report Bug](https://github.com/SWEHULYADAV/advanced-website-crawler/issues) | [Request Feature](https://github.com/SWEHULYADAV/advanced-website-crawler/issues)
+[Documentation](https://github.com/SWEHULYADAV/Crawl-Anything/wiki) | [Report Bug](https://github.com/SWEHULYADAV/Crawl-Anything/issues) | [Request Feature](https://github.com/SWEHULYADAV/Crawl-Anything/issues)
 
 </div>
 
@@ -144,8 +144,8 @@ The Advanced Website Crawler is a sophisticated Python-based web scraping tool d
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SWEHULYADAV/advanced-website-crawler.git
-   cd advanced-website-crawler
+   git clone https://github.com/SWEHULYADAV/Crawl-Anything.git
+   cd Crawl-Anything
    ```
 
 2. Create a virtual environment (recommended):
@@ -290,21 +290,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## � Screenshots
-
-<details>
-<summary>Click to expand screenshots</summary>
-
-### Main Menu
-![Main Menu](screenshots/main-menu.png)
-
-### Crawling in Action
-![Crawling](screenshots/crawling.png)
-
-### Output Structure
-![Output](screenshots/output.png)
-
 </details>
 
 ## 🚫 Common Issues & Solutions
@@ -364,13 +349,13 @@ tasklist | findstr "python"
 - BeautifulSoup4 for HTML parsing
 - Playwright for dynamic content
 - Python community for inspiration
-- All our [contributors](https://github.com/SWEHULYADAV/advanced-website-crawler/graphs/contributors)
+- All our [contributors](https://github.com/SWEHULYADAV/Crawl-Anything/graphs/contributors)
 
 ## 📈 Project Stats
 
-[![Contributors](https://img.shields.io/github/contributors/SWEHULYADAV/advanced-website-crawler)](https://github.com/SWEHULYADAV/advanced-website-crawler/graphs/contributors)
-[![Issues](https://img.shields.io/github/issues/SWEHULYADAV/advanced-website-crawler)](https://github.com/SWEHULYADAV/advanced-website-crawler/issues)
-[![PRs](https://img.shields.io/github/issues-pr/SWEHULYADAV/advanced-website-crawler)](https://github.com/SWEHULYADAV/advanced-website-crawler/pulls)
+[![Contributors](https://img.shields.io/github/contributors/SWEHULYADAV/Crawl-Anything)](https://github.com/SWEHULYADAV/Crawl-Anything/graphs/contributors)
+[![Issues](https://img.shields.io/github/issues/SWEHULYADAV/Crawl-Anything)](https://github.com/SWEHULYADAV/Crawl-Anything/issues)
+[![PRs](https://img.shields.io/github/issues-pr/SWEHULYADAV/Crawl-Anything)](https://github.com/SWEHULYADAV/Crawl-Anything/pulls)
 
 ---
 <p align="center">
